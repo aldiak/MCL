@@ -1,2 +1,2 @@
 # MCL
-This is repository of our MICCAI Worshop Paper
+This is the repository of our MICCAI Workshop Paper titled: MCL - Multi-Level Consistency Learning for Medical Image Segmentation. The code is coming soon ...
